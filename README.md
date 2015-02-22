@@ -1,0 +1,2 @@
+# myhybridapp
+HydridApp jhipster cordova
