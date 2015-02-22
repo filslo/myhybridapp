@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "myHybridApp",
+    "packageName": "org.myhybridapp",
+    "packageFolder": "org/myhybridapp",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "be19605c00c897356d5dacfc63089aeb2824538c"
+  }
+}
