@@ -1,0 +1,1 @@
+ cordova -d create mobile org.hybridapp  MyHybridApp
