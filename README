@@ -1,1 +1,6 @@
+Ajout francais 
+   yo jhipster:languages
+
+
  cordova -d create mobile org.hybridapp  MyHybridApp
+
